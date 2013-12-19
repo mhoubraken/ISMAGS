@@ -5,7 +5,7 @@ This page contains a implementation of the Index-Based Subgraph Matching Algorit
 
 Queries can be specified in the following format:
 
-	java -jar ISMAGS.jar -folder C:\myFolder\ -linkfiles X u X X Xu_yeast.txt -motif XZ00ZY -output outputname
+	java -jar ISMAGS.jar -folder C:\myFolder\ -linkfiles "X u X X Xu_yeast.txt" -motif XZ00ZY -output outputname
 
 The options to the ISMAGS jar are as follows:
 
