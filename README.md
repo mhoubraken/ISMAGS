@@ -1,7 +1,7 @@
 ISMAGS
 ======
 
-This page contains a implementation of the Index-Based Subgraph Matching Algorithm with General Symmetries.
+This page contains an implementation of the Index-Based Subgraph Matching Algorithm with General Symmetries.
 
 Queries can be specified in the following format:
 
